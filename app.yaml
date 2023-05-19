@@ -1,0 +1,5 @@
+runtime: nodejs16 # or another supported version
+service: resell-backend-prod
+
+inbound_services:
+  - warmup

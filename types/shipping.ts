@@ -1,0 +1,38 @@
+export interface IShipping extends Document{
+
+userId: string;
+firstName: string,
+lastName: string,
+addressLine1: string,
+addressLine2: string,
+city: string,
+state: string,
+country: string,
+zipCode : string,
+companyName : string,
+phoneNumber : string,
+email: string,
+
+buyerUserId:string,
+buyerFirstName: string,
+buyerLastName: string,
+buyerAddressLine1: string,
+buyerAddressLine2: string,
+buyerCity: string,
+buyerState: string,
+buyerCountry: string,
+buyerZipCode : string,
+buyerCompanyName : string,
+buyerPhoneNumber : string,
+buyerEmail: string,
+
+imageType: string,
+mailingDate: string,
+weightUOM:string, 
+weight: number,
+dimensionsUOM:string,
+length:number,
+height:number,
+width:number,
+orderId: string,       
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "paysfr",
+  "private_key_id": "02f956593b9bc4f0944c1cc3d69b2f5b733db969",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDMVA1dOKDN/gUD\ndgxoQyXKoNOX4dRUmP4+v6uocuYNKeDtX0X0/Iuv6MaAZwqtHUMg2wFZHbYTQzSl\np8xXnHmXPAHfb5jH3CTpoZukDtMKyv2vaB/4ng7NHaYQiHElYLsmGHwxTST5Kpwy\nZitjmNu+D829breF8g9AM2nNCprvKGO0qt6/nzTsdAS5P0oQayowRcAXfxxbGZ58\nWp0DRvU4AAYQykjI49wd4vhoLPTjEIMjWWvEM5nIAh1k+q3M3r+7VB1f2ol0N9or\naI71IWREKip0tu17TWuC7n126aRhKike0Axm2SqyP5BfmchMM6F6HL8oEkNb2UCO\nZaW0MkSpAgMBAAECggEAO938tG2dH/3ndiYmaH4UGpSYqo2uasMQ6025e/d+VCkL\nEEGz+53rR7VKQ+DtDd/fBUdl07iS2n38dPT/OEROk/MvEUpfV1+3KQUC10TIrQbg\n4X3+sBePeqXPPFTd4fe/nd/as49I4ACOF248FEh7SerTe0dvWj2cHlFyFHOhBaUn\nVEmNnEkZ7DfYu25enFM0xv1Y15Dc3CQcptPpeCOqLbza/ri4qW51MsSM6mkaZS6v\nvmsFS6GeKRAc8fbpoZsKkTh7l2ea1E0qz1fS5eAoea/gDxZMi5zx1GnKI7kAFLjP\noVCyplaGJwJeDoow83tjnCZiXyashBz7QbAue6rECQKBgQD58JZvOs5aP2q9D36y\nVVw/9naBf8sJzWikEyrL4akYnI+w3B8ZEbYuvcNAlUL6aeLgGu/5XwphKk9Ln/CJ\nqU2jB2UuHwoBbeOo5Da6xDb9GBLjnxN6r9H3MWarl8XMoJ63wZXpsSVpmxGKZIdz\nuYaXGcUV5ICw33SAheJ/S5lCqwKBgQDRSFj9Zka0sF9Px07RPEYfBIiPjwPRiJXn\nXD9N/2RKSKI2EWVqS0gKGJ1czqXC7b0F3HWpqSRKhmrTqWrvvMuVbvdt9iPF3Ao9\nHC1mQobBYNPSCKsbGTbbCU2a7IKVCvOj/0ksqxMEjnC/tZULJRwHGlK4ro6QSfqV\nOpFi4mG1+wKBgCQcs8+cYoY9lXF9lKO1m5+OP68URMTEzfKu5kcQ8rqgnE5Eb6XS\nnk0Ak/530naV5/bTTYrtRXWmhFB76mgpcxM0FVVlnK96LiOP3ax8fylwWgJTUKAw\nWRjrJVdzlVusdWI9cSiTtMEea5lgTwXUb3LTgVtZaZKkppOPRJt508oDAoGAEfCz\nwDUuRnsAEKSzOviBwlLvKe9GkoW04/piattDy6JiVWQ0X2JIsKTfiH8mcolStNfr\nNjoLpF/VdIOHaTmz8gFrMH/zHRj5v7dUpPl698THI7Aeitoke65Wertfjks8C4js\nyul3XeKgA68bMbNirbEx+ibsja3pzzUQFXv2iFUCgYEAnrucTfVNZnCzFJ8CY0VH\nwAKuRL8VhgZ3OaAh1CRm37M6+zFUxacIRwP38Y/GBzPWMobCd6OKpHMWcPdTFWpm\nrOy9tL9VSqsemaPIETwyfOEYIF7v9tgItT2z1EKnvK7ifc39YmxfCmWhJ2CNJh9t\nVY4PRgTO+u3RDhlkpfXXsqs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "resell@paysfr.iam.gserviceaccount.com",
+  "client_id": "111900375335423466480",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/resell%40paysfr.iam.gserviceaccount.com"
+}
